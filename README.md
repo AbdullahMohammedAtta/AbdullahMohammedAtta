@@ -1,45 +1,85 @@
-## Hi there 👋 I'm Abdullah Mohamed
+<h1 align="center">Man shall have nothing but what he strives for ✨</h1>
+<h3 align="center">Flutter Developer | Software Engineer | Computer Science Graduate</h3>
 
-<img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup-bg.jpg" alt="Flutter header">
-
-### 👨‍💻 About Me
-- 📱 Mobile App Developer using **Flutter**
-- 🎓 Worked in programming education at **DECI (Udacity)-(Almentor)**
-- 👨‍🏫 Programming Mentor
-- 💡 Interested in Flutter, Backend, and Game Development
-- 🚀 Love building real projects and learning new technologies
-
----
-
-### 🛠️ Tech Stack
-- Flutter / Dart
-- Firebase / Supabase
-- Python / Django
-- REST APIs
-- Git & GitHub
-
----
-
-### 🌍 Connect with me
-
-<p>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Software+Engineer;Mobile+App+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 About Me
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+- 📱 Flutter Mobile Application Developer  
+- 💻 Software Engineer  
+- 🎓 Computer Science Graduate  
+- 👨‍🏫 Instructor at **DECI in " Udacity + Almentor "**
+- 💡 Passionate about building apps & learning new technologies
+- 🔥 I love creating real-world projects
 
 ---
 
-### 🔥 Quote
-> "Code is not just code… it's a way to build the future."
-> "man shall have nothing but what he strives for."
+## 🛠 Tech Stack
 
+<p>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/REST API-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Bloc-02569B?style=for-the-badge">
+<img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge">
+
+</p>
+
+---
+
+## 🌍 Connect with me
+
+<p>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbdullahMohammedAtta&show_icons=true&theme=tokyonight">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight">
+
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced Flutter
+- Clean Architecture
+- Backend with Python / Django
+- AI Integration
+
+---
+
+## ✨ Quote
+
+> "Great developers are built with practice, patience, and passion."
