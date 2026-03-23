@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Bloc-02569B?style=for-the-badge">
 <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=AbdullahMohammedAtta&style=for-the-badge&color=blue" alt="profile views"/>
 
 </p>
 
