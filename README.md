@@ -4,20 +4,19 @@
 
 ### 👨‍💻 About Me
 - 📱 Mobile App Developer using **Flutter**
-- 🎓 Worked in programming education at **Ashbal Misr Digital Initiative (Udacity)**
+- 🎓 Worked in programming education at **DECI (Udacity)-(Almentor)**
 - 👨‍🏫 Programming Mentor
-- 💡 Interested in Backend, Flutter, and Game Development
+- 💡 Interested in Flutter, Backend, and Game Development
 - 🚀 Love building real projects and learning new technologies
 
 ---
 
 ### 🛠️ Tech Stack
 - Flutter / Dart
-- Firebase / Supabase / MongoDB
+- Firebase / Supabase
 - Python / Django
 - REST APIs
 - Git & GitHub
-- Unreal Engine (Beginner)
 
 ---
 
@@ -42,3 +41,5 @@
 
 ### 🔥 Quote
 > "Code is not just code… it's a way to build the future."
+> "man shall have nothing but what he strives for."
+
