@@ -38,7 +38,7 @@
 - 📱 Flutter Mobile Application Developer  
 - 💻 Software Engineer  
 - 🎓 Computer Science Graduate  
-- 👨‍🏫 Programming Instructor at **DECI (Digital Egypt Cubs Initiative) — Udacity & Almentor**
+- 👨‍🏫 Programming Instructor at **DECI — Udacity & Almentor**
 - 💡 Passionate about building apps & learning new technologies
 - 🔥 I love creating real-world projects
 
