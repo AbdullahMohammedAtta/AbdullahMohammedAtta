@@ -87,8 +87,10 @@
 
 - Advanced Flutter
 - Clean Architecture
-- Backend with Python / Django
+- Backend with Python / FastAPI
 - AI Integration
+- AI + ML
+- mckinsey forward program
 
 ---
 
