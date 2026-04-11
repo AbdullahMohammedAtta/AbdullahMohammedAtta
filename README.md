@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Bloc-02569B?style=for-the-badge">
-<img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Shared Preferences-8A2BE2?style=for-the-badge">
 
 </p>
 
