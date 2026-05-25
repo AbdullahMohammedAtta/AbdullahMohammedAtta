@@ -34,6 +34,7 @@
 ---
 
 ## 🚀 About Me
+Software Engineer with a focus on Artificial Intelligence, Machine Learning, and Mobile App Development
 
 - 📱 Flutter Mobile Application Developer  
 - 💻 Software Engineer  
