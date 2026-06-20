@@ -46,11 +46,23 @@ I'm a **Software Engineer** and **Computer Science graduate** passionate about b
 
 ## 💻 Featured Projects
 
-### 🏟️ Football Field Booking Application
-> A complete Flutter application designed to facilitate stadium reservations and down payments.
+### 🛒 Full-Stack E-Commerce Ecosystem
+> A robust and comprehensive cross-platform E-Commerce solution featuring dedicated user-facing experiences and high-control administrative management.
 
-- **Features:** Search and book football fields, manage reservations and schedules, view field details and availability.
-- **Tech Stack:** Flutter, Firebase, REST APIs, Bloc/Cubit
+* **📱 User Application Features:**
+  * **Seamless Onboarding & Auth:** Secure authentication flow (Sign Up, Login) with optimized state management.
+  * **Dynamic Catalog Exploration:** Multi-category browsing, real-time product filtering, smart searching, and detailed product views.
+  * **Order & Cart Management:** Interactive shopping cart, secure checkout pipelines, and real-time order tracking status.
+  * **Personalization:** Wishlist management, custom user profiles, and order history logs.
+
+* **📊 Admin Panel Features:**
+  * **Inventory Management:** Full CRUD operations to smoothly manage products, categories, stock levels, and pricing.
+  * **Order Fulfillment Control:** Centralized dashboard to track, update, process, and manage incoming user orders.
+  * **Analytics Overview:** Insights into sales performance, popular products, and general user engagement metrics.
+
+* **🛠 Tech Stack:** Flutter, Dart, Clean Architecture, Bloc/Cubit, Firebase (or REST APIs), Push Notifications.
+
+---
 
 ### 👁️ Computer Vision Workforce Monitoring System
 > An intelligent monitoring solution for workplace automation and safety compliance.
