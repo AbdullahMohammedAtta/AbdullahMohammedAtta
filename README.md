@@ -1,4 +1,8 @@
-<h1 align="center">Man shall have nothing but what he strives for ✨</h1>
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&duration=3000&pause=1200&color=FFD43B&center=true&vCenter=true&width=900&lines=Man+shall+have+nothing+but+what+he+strives+for+✨;Turning+Ideas+Into+Real+Applications.;Always+Learning+New+Technologies.;Welcome+To+My+GitHub+Profile." />
+
+</p>
 
 <h3 align="center">
   Software Engineer | Flutter Developer | AI & ML Enthusiast | Programming Instructor
