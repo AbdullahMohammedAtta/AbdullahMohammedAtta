@@ -91,10 +91,46 @@
 
 ---
 
-## 📚 Currently Leveling Up
+## 📊 GitHub Analytics
 
-```json
-{
-  "advanced_engineering": ["Large Scale Flutter Architecture", "Engineering Team Management"],
-  "applied_ai": ["Generative AI Integration into Mobile", "Cloud-Edge ML Deployment"]
-}
+
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahMohammedAtta&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3" alt="GitHub Stats" width="48%"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMohammedAtta&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd" alt="Top Languages" width="48%"/>
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahMohammedAtta&theme=tokyonight&hide_border=true&fire=bf91f3&ring=70a5fd" alt="GitHub Streak" width="97%" />
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahMohammedAtta&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=FFFFFF&hide_border=true" alt="Contribution Graph" width="97%"/>
+
+</p>
+
+
+
+---
+
+
+
+<br>
+
+
+
+<p align="center">
+
+  <i>Great developers are built with practice, patience, and passion.</i>
+
+</p>
