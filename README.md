@@ -1,17 +1,14 @@
 <div align="center">
   
-  <!-- Title Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&duration=3500&pause=1000&color=70a5fd&center=true&vCenter=true&width=900&lines=Man+shall+have+nothing+but+what+he+strives+for+✨;Turning+Ideas+Into+Real+Applications.;Always+Learning+New+Technologies.;Welcome+To+My+GitHub+Profile." alt="Typing SVG" />
 
   <h1>👋 Hello, I'm Abdullah Mohamed</h1>
   <p><b>Software Engineer | Flutter Developer | AI & ML Enthusiast | Programming Instructor</b></p>
 
-  <!-- Sub-typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=16&center=true&vCenter=true&width=500&height=35&duration=4000&color=bf91f3&lines=Computer+Science+Graduate;Flutter+Expert;Computer+Vision+Developer;Tech+Mentor" alt="Sub Typing SVG" />
 
   <br/>
 
-  <!-- Social Badges with modern flat-square style -->
   <a href="https://www.linkedin.com/in/abdullah-mohamed-33359a229/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/AbdullahMohammedAtta"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:abdullahata000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
